@@ -1,4 +1,4 @@
-# Rules of the game
+# Test instruction
 
 Design a program that displays a couplet of the user's favorite music: "99 shooters sans alcool", based on what the user has entered. This number must be between 0 and 99.
 
