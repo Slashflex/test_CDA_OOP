@@ -5,7 +5,7 @@ Design a program that displays a couplet of the user's favorite music: "99 shoot
 ___
 ## How the program works
 
-You have to type in a integer from 0 to 99 then hit the button to get the appropriate couplet displayed.
+You have to type in an integer from 0 to 99 then hit the button to get the appropriate couplet displayed.
 
 If you type anything other than integers between 0 and 99, an error message will appear with your entry in red, prompting you to start over.
 
