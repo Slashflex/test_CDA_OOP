@@ -51,8 +51,11 @@ This will start PHP and MySQL process
 
 
 - In Visual Studio Code
-Navigate to the file test_CDA_OOP.php's root and launch it using VSC (or any IDE)
-By right clicking the file once opened, you should have the option to open it using PHP server and have it displayed on any Web browser
+Navigate to the file test_CDA_OOP.php's root and launch it using VSC (or any IDE).
+You have to donwload an extension in VSC called "PHP SERVER" in order to "serve" the test :
+![PHP SERVER extension](https://i.imgur.com/Av7ezYS.png)
+
+Once the extension is downloaded and installed, you have to right click the file "CDA_test_OOP.php" once opened, now you should have the option to open it using PHP server and have it displayed on any Web browser
 ![PHP_serve_project](https://i.imgur.com/jOVWzY5.png)
 or with the option "Open in web Browser" in others IDE
 
