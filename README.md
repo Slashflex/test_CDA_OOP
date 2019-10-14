@@ -37,7 +37,7 @@ $ cd [folder name]
 Now you can clone the project to your newly created folder 
 In terminal type in 
 ```console
-$ git clone git@github.com:Slashflex/test_CDA_OOP.git
+$ git clone https://github.com/Slashflex/test_CDA_OOP.git
 ```
 Now you have to start lampp as root
 ```console
